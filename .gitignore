@@ -1,0 +1,10 @@
+# 本地运行环境，别提交
+tools/git/
+tools/models/
+tools/pylibs/
+tools/voices/
+work/
+tmp/
+outputs/
+*.log
+*.exe
